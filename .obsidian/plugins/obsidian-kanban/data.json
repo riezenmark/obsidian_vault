@@ -1,0 +1,15 @@
+{
+  "show-checkboxes": false,
+  "full-list-lane-width": false,
+  "new-note-template": "Templates/Default Template.md",
+  "move-tags": false,
+  "tag-action": "kanban",
+  "move-dates": true,
+  "archive-with-date": false,
+  "date-picker-week-start": 1,
+  "move-task-metadata": true,
+  "metadata-keys": [],
+  "show-add-list": true,
+  "show-set-view": false,
+  "show-search": true
+}

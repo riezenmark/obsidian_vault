@@ -1,0 +1,22 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "Cyber_Security": 1,
+    "Education": 2,
+    "Programming": 3,
+    "Team_Leading": 4,
+    "work": 5,
+    "Solar": 6,
+    "Dozor": 7
+  },
+  "_version": 3
+}

@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "4ec56e16990f7d05",
+        "id": "fe07cdb5c4d52c68",
         "type": "tabs",
         "children": [
           {
-            "id": "541346a3351d19d3",
+            "id": "54ec05fe9a946b43",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Education/Computer Science/Security/SCA.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:Cyber_Security",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,20 +57,13 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "99582c2753e71022",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 239.51103591918945
   },
   "right": {
     "id": "187dce6debc09483",
@@ -75,33 +73,6 @@
         "id": "95f78f7294314b55",
         "type": "tabs",
         "children": [
-          {
-            "id": "1faaf468521539ae",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "de10137d07e8b7b3",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
           {
             "id": "017c6355ef469208",
             "type": "leaf",
@@ -114,53 +85,114 @@
             }
           },
           {
-            "id": "b48debbe7353f83f",
+            "id": "56690b6ce36287e5",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "calendar",
               "state": {}
             }
           },
           {
-            "id": "5d6976140e3dc44a",
+            "id": "35604f4f0972c724",
             "type": "leaf",
             "state": {
-              "type": "review-queue-list-view",
-              "state": {}
+              "type": "backlink",
+              "state": {
+                "file": "Education/Computer Science/Security/SCA.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "870e632f7b061f7c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Education/Computer Science/Security/SCA.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "d80f8c7ef989d58d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Education/Computer Science/Security/SCA.md"
+              }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 321.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-kanban:Create new board": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "homepage:Open homepage": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-projects:Open projects": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5d6976140e3dc44a",
+  "active": "78fad2bf57725486",
   "lastOpenFiles": [
-    "Templates/Planner Template.md",
-    "Templates/Untitled.canvas",
-    "Templates",
-    "Cache",
-    "2024-07-11.md",
-    "Welcome.md",
-    "create a link.md",
-    "Untitled.canvas"
+    "Work/Solar/Компания/Общая информация.md",
+    "Education/Computer Science/Security/SAST.md",
+    "Work/Solar/Компания/Продукты/Solar APPSCREENER.md",
+    "Work/Solar/Компания/Проект/Матрица ответсвенностей.md",
+    "Education/Team Leading/Mind Map.md",
+    "Education/Team Leading/Misc/Виды организаций.md",
+    "Education/Computer Science/Security/SCS.md",
+    "Cache/DLP types of data.png",
+    "Untitled.canvas",
+    "Cache/Виды организаций 2.png",
+    "Cache/Виды организаций 1.png",
+    "Education/Computer Science/Security/DLP.md",
+    "Work/Solar/FAQ заинтересованных лиц.md",
+    "Getting Things Done.md",
+    "Untitled Kanban.md",
+    "Education/Computer Science/Security/DAST.md",
+    "Education/Computer Science/Security/SCA.md",
+    "Education/Computer Science/Security/DRP.md",
+    "Education/Computer Science/Mind Map.md",
+    "Education/Team Leading/Misc/RACI.md",
+    "Work/Solar/Цели/2024/Q3/Цели на Q3.md",
+    "Work/Solar/Компания/Продукты/Solar JSOC.md",
+    "Work/Solar/Компания/Продукты/Solar Dozor.md",
+    "Work/Solar/Компания/Продукты/Solar AURA.md",
+    "Work/Solar/Компания/Контакты.md",
+    "Work/Инструменты/Оценка рисков.md",
+    "Work/Инструменты/Матрица Эйзенхауэра.md",
+    "Daily/2024-07-13.md",
+    "Templates/Daily Template.md",
+    "Untitled.usheet",
+    "Lead Time Distribution Chart.xlsx",
+    "Untitled.xlsx",
+    "Untitled.loom",
+    "Daily/Lead Time Distribution Chart.xlsx",
+    "Education/Computer Science/Software/Observability/Tempo",
+    "Education/Computer Science/Software/Observability/Jaeger",
+    "Education/Computer Science/Software/Observability/Grafana",
+    "Education/Computer Science/Software/Observability/Prometheus",
+    "Education/Computer Science/Software/Observability",
+    "Cache/Pasted image 20240713011941.png",
+    "Templates/Untitled.canvas"
   ]
 }

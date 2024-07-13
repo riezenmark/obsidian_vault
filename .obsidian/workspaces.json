@@ -1,0 +1,421 @@
+{
+  "workspaces": {
+    "Приоритизация": {
+      "main": {
+        "id": "1f9aa2533efe4991",
+        "type": "split",
+        "children": [
+          {
+            "id": "39f37c562f75b1f4",
+            "type": "split",
+            "children": [
+              {
+                "id": "86cedc6e0a78b848",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "8902898e3f30924e",
+                    "type": "leaf",
+                    "state": {
+                      "type": "kanban",
+                      "state": {
+                        "file": "Getting Things Done.md",
+                        "kanbanViewState": {
+                          "kanban-plugin": "board",
+                          "list-collapse": [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            true,
+                            false
+                          ]
+                        }
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "06397695225ecfe9",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "1d60e14c8da55549",
+                    "type": "leaf",
+                    "state": {
+                      "type": "kanban",
+                      "state": {
+                        "file": "Work/Инструменты/Матрица Эйзенхауэра.md",
+                        "kanbanViewState": {
+                          "kanban-plugin": "board",
+                          "list-collapse": [
+                            false,
+                            false,
+                            false,
+                            false
+                          ]
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "825d39af7febdb19",
+        "type": "split",
+        "children": [
+          {
+            "id": "5e74002141444e99",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "45d675b4271ca19a",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "78fad2bf57725486",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 239.51103591918945
+      },
+      "right": {
+        "id": "187dce6debc09483",
+        "type": "split",
+        "children": [
+          {
+            "id": "95f78f7294314b55",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "017c6355ef469208",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "56690b6ce36287e5",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "35604f4f0972c724",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Work/Инструменты/Матрица Эйзенхауэра.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "870e632f7b061f7c",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Work/Инструменты/Матрица Эйзенхауэра.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "d80f8c7ef989d58d",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Work/Инструменты/Матрица Эйзенхауэра.md"
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 321.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-kanban:Create new board": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "homepage:Open homepage": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "45d675b4271ca19a",
+      "mtime": "2024-07-13T04:57:49+03:00"
+    },
+    "Оценка рисков": {
+      "main": {
+        "id": "1f9aa2533efe4991",
+        "type": "split",
+        "children": [
+          {
+            "id": "98ae73c29ae85223",
+            "type": "split",
+            "children": [
+              {
+                "id": "bfea6c090754771d",
+                "type": "tabs",
+                "dimension": 41.43763213530655,
+                "children": [
+                  {
+                    "id": "c29871eb8642fa70",
+                    "type": "leaf",
+                    "state": {
+                      "type": "kanban",
+                      "state": {
+                        "file": "Getting Things Done.md",
+                        "kanbanViewState": {
+                          "kanban-plugin": "board",
+                          "list-collapse": [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            true,
+                            false
+                          ]
+                        }
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "6a5131df21dd3ecf",
+                "type": "tabs",
+                "dimension": 58.56236786469344,
+                "children": [
+                  {
+                    "id": "8a4fc930b098e444",
+                    "type": "leaf",
+                    "state": {
+                      "type": "kanban",
+                      "state": {
+                        "file": "Work/Инструменты/Оценка рисков.md",
+                        "kanbanViewState": {
+                          "kanban-plugin": "board",
+                          "list-collapse": [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                          ]
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "825d39af7febdb19",
+        "type": "split",
+        "children": [
+          {
+            "id": "5e74002141444e99",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "45d675b4271ca19a",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "78fad2bf57725486",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 239.51103591918945
+      },
+      "right": {
+        "id": "187dce6debc09483",
+        "type": "split",
+        "children": [
+          {
+            "id": "95f78f7294314b55",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "017c6355ef469208",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "56690b6ce36287e5",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "35604f4f0972c724",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Getting Things Done.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "870e632f7b061f7c",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Getting Things Done.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "d80f8c7ef989d58d",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Getting Things Done.md"
+                  }
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-kanban:Create new board": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "homepage:Open homepage": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "c29871eb8642fa70",
+      "mtime": "2024-07-13T05:20:26+03:00"
+    }
+  },
+  "active": "Приоритизация"
+}

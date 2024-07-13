@@ -1,5 +1,12 @@
 {
-  "cssTheme": "Material Gruvbox",
+  "cssTheme": "Tokyo Night",
   "theme": "obsidian",
-  "baseFontSize": 18
+  "baseFontSize": 18,
+  "enabledCssSnippets": [
+    "Eisenhower Matrix",
+    "Risk Estimation"
+  ],
+  "showViewHeader": true,
+  "monospaceFontFamily": "JetBrains Mono",
+  "interfaceFontFamily": ""
 }

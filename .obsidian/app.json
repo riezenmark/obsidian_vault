@@ -1,4 +1,8 @@
 {
   "promptDelete": false,
-  "attachmentFolderPath": "Cache"
+  "attachmentFolderPath": "Cache",
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview",
+  "showInlineTitle": true,
+  "showRibbon": true
 }
