@@ -16,7 +16,10 @@
     "Team_Leading": 4,
     "work": 5,
     "Solar": 6,
-    "Dozor": 7
+    "Dozor": 7,
+    "Scala": 8,
+    "TODO": 9,
+    "Planner": 10
   },
   "_version": 3
 }

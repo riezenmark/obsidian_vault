@@ -4,7 +4,8 @@
   "baseFontSize": 18,
   "enabledCssSnippets": [
     "Eisenhower Matrix",
-    "Risk Estimation"
+    "Risk Estimation",
+    "auto-width"
   ],
   "showViewHeader": true,
   "monospaceFontFamily": "JetBrains Mono",
