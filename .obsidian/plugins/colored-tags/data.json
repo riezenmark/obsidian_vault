@@ -19,7 +19,10 @@
     "Dozor": 7,
     "Scala": 8,
     "TODO": 9,
-    "Planner": 10
+    "Planner": 10,
+    "Clojure": 11,
+    "Kotlin": 12,
+    "Java": 13
   },
   "_version": 3
 }

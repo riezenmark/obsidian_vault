@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5b4325cbc53edb83",
+        "id": "7f332bbcbdf057fb",
         "type": "tabs",
         "children": [
           {
-            "id": "ba062e37485d7a9f",
+            "id": "5545795fb69c82ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Education/Computer Science/Programming/JVM/Languages/Scala/Параметрический полиморфизм/Вариантность.md",
+                "file": "Work/Solar/Компания/Проект/Матрица ответственностей.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#TODO  ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.51103591918945
+    "width": 459.51103591918945
   },
   "right": {
     "id": "187dce6debc09483",
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Education/Computer Science/Programming/JVM/Languages/Scala/Параметрический полиморфизм/Вариантность.md",
+                "file": "Work/Solar/Компания/Проект/Матрица ответственностей.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Education/Computer Science/Programming/JVM/Languages/Scala/Параметрический полиморфизм/Вариантность.md",
+                "file": "Work/Solar/Компания/Проект/Матрица ответственностей.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,16 +126,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Education/Computer Science/Programming/JVM/Languages/Scala/Параметрический полиморфизм/Вариантность.md"
+                "file": "Work/Solar/Компания/Проект/Матрица ответственностей.md"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 205.5
+    "width": 373.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,48 +150,51 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ba062e37485d7a9f",
+  "active": "5545795fb69c82ee",
   "lastOpenFiles": [
-    "Education/Computer Science/Programming/JVM/Languages/Scala/Параметрический полиморфизм/Обобщенные классы.md",
-    "Education/Computer Science/Programming/JVM/Languages/Scala/Параметрический полиморфизм/Роды типов.md",
-    "Education/Computer Science/Programming/JVM/Languages/Scala/Параметрический полиморфизм/Ограничения типов (Bounds).md",
-    "Education/Computer Science/Programming/JVM/Languages/Scala/Параметрический полиморфизм/Вариантность.md",
-    "Education/Computer Science/Programming/JVM/Languages/Scala/Классы/Объект экстрактор.md",
-    "Education/Computer Science/Programming/JVM/Languages/Scala/Типы",
-    "Education/Computer Science/Programming/JVM/Languages/Nbgs.md",
-    "Education/Computer Science/Programming/JVM/Languages/Scala/Операторы/Регулярные выражения.md",
-    "Education/Computer Science/Programming/JVM/Languages/Scala/Функции/Множественные списки параметров (Каррирование).md",
-    "Education/Computer Science/Programming/JVM/Languages/Scala/Классы/Трейты.md",
-    "Education/Computer Science/Programming/JVM/Languages/Scala/Операторы/Pattern-matching.md",
-    "Education/Computer Science/Programming/JVM/Languages/Scala/Классы/Наследование case-классов.md",
-    "Education/Computer Science/Programming/JVM/Languages/Scala/Классы/Абстрактные классы.md",
-    "Education/Computer Science/Programming/JVM/Languages/Scala/Операторы/Сложные for-выражения.md",
-    "Education/Computer Science/Programming/JVM/Languages/Scala/Функции/Вложенные методы.md",
-    "Education/Computer Science/Programming/JVM/Languages/Scala/Классы/Case-классы.md",
-    "Education/Computer Science/Programming/JVM/Languages/Scala/Классы/Объекты-одиночки.md",
-    "Education/Computer Science/Programming/JVM/Languages/Scala/Классы/Классы.md",
     "Getting Things Done.md",
-    "Work/Инструменты/Оценка рисков.md",
-    "Абстрактные классы.md",
+    "Education/Computer Science/Programming/JVM/Languages/Scala/Типы/Единообразие типов.md",
+    "Education/Computer Science/Security/SCA.md",
+    "Education/Computer Science/Programming/JVM/Languages/Scala/Операторы/Регулярные выражения.md",
+    "Untitled.canvas",
+    "Education/Computer Science/Programming/JVM/Languages/Scala/Операторы/Операторы.md",
+    "Education/Computer Science/Programming/JVM/Languages/Scala/Классы/Объект экстрактор.md",
+    "Education/Computer Science/Programming/JVM/Languages/Scala/Классы/Наследование case-классов.md",
+    "Education/Computer Science/Programming/JVM/Languages/Kotlin/Параметрический полиморфизм/Ключевое слово 'reified'.md",
+    "Education/Computer Science/Programming/JVM/Languages/Scala/Типы/Кортежи.md",
+    "Education/Computer Science/Programming/JVM/Languages/Scala/Классы/Case-классы.md",
+    "Education/Computer Science/Programming/JVM/Languages/Scala/Операторы/Pattern-matching.md",
+    "Education/Computer Science/Programming/JVM/Languages/Scala/Параметрический полиморфизм/Нижнее ограничение типа.md",
+    "Work/Solar/Компания/Проект/Матрица ответственностей.md",
+    "Templates/Month Planner Template.md",
+    "Work/Solar/Компания/Продукты/Solar Dozor.md",
+    "Education/Team Leading/Misc/RACI.md",
+    "Work/Solar/Компания/Общая информация.md",
+    "Work/Solar/Компания/Контакты.md",
+    "Education/Team Leading/Misc/Виды организаций.md",
+    "Education/Team Leading/Mind Map.md",
+    "Education/Computer Science/Programming/JVM/Languages/Scala/Классы/Внутренние классы.md",
+    "Cache/Виды организаций 2.png",
+    "Cache/DLP types of data.png",
+    "Cache/Приведение типов Scala.png",
+    "Cache/Scala Types.png",
+    "Cache/S-Expressions.png",
+    "Cache/Виды организаций 1.png",
     "Templates/Daily Template.md",
-    "Templates/Default Template.md",
+    "Daily/2024-07-24.md",
     "Templates/Year Planner Template.md",
     "Templates/Q Planner Template.md",
-    "Templates/Month Planner Template.md",
-    "Work/Solar/FAQ заинтересованных лиц.md",
+    "Templates/Default Template.md",
+    "Education/Computer Science/Programming/JVM/Languages/Kotlin/Функции",
+    "Education/Computer Science/Programming/JVM/Languages/Kotlin/Параметрический полиморфизм",
+    "Education/Computer Science/Programming/JVM/Languages/Clojure",
+    "Education/Computer Science/Programming/JVM/Languages/Scala/Типы",
     "Education/Computer Science/Programming/JVM/Languages/Scala/Параметрический полиморфизм",
     "Education/Computer Science/Programming/JVM/Languages/Scala/Классы",
     "Education/Computer Science/Programming/JVM/Languages/Scala/Коллекции",
     "Education/Computer Science/Programming/JVM/Languages/Scala/Операторы",
     "Education/Computer Science/Programming/JVM/Languages/Scala/Функции",
     "Education/Computer Science/Programming/JVM/Languages/Scala/Типы",
-    "Cache/DLP types of data.png",
-    "Untitled.canvas",
-    "Cache/Виды организаций 2.png",
-    "Cache/Виды организаций 1.png",
-    "Untitled.usheet",
-    "Lead Time Distribution Chart.xlsx",
-    "Untitled.xlsx",
     "Cache/Pasted image 20240713011941.png",
     "Templates/Untitled.canvas"
   ]

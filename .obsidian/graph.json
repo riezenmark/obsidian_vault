@@ -1,7 +1,7 @@
 {
   "collapse-filter": true,
   "search": "-path:Daily  -path:Templates -tag:#Planner  ",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5995838000493192,
-  "close": true
+  "scale": 0.5995838000493247,
+  "close": false
 }
