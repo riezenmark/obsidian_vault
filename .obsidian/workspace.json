@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7f332bbcbdf057fb",
+        "id": "86cedc6e0a78b848",
         "type": "tabs",
         "children": [
           {
-            "id": "5545795fb69c82ee",
+            "id": "cc814f78c02835d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Solar/Компания/Проект/Матрица ответственностей.md",
-                "mode": "preview",
+                "file": "Daily/2024-08-01.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -62,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 459.51103591918945
+    "width": 239.51103591918945
   },
   "right": {
     "id": "187dce6debc09483",
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Solar/Компания/Проект/Матрица ответственностей.md",
+                "file": "Daily/2024-08-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Solar/Компания/Проект/Матрица ответственностей.md",
+                "file": "Daily/2024-08-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,19 +126,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Solar/Компания/Проект/Матрица ответственностей.md"
+                "file": "Daily/2024-08-01.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 321.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "random-note:Open random note": false,
       "obsidian-kanban:Create new board": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -150,52 +151,55 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5545795fb69c82ee",
+  "active": "cc814f78c02835d7",
   "lastOpenFiles": [
+    "Daily/2024-08-02.md",
+    "Daily/2024-07-26.md",
+    "Daily/2024-07-31.md",
+    "Task charts.md",
+    "Daily/2024-08-01.md",
     "Getting Things Done.md",
-    "Education/Computer Science/Programming/JVM/Languages/Scala/Типы/Единообразие типов.md",
-    "Education/Computer Science/Security/SCA.md",
-    "Education/Computer Science/Programming/JVM/Languages/Scala/Операторы/Регулярные выражения.md",
-    "Untitled.canvas",
-    "Education/Computer Science/Programming/JVM/Languages/Scala/Операторы/Операторы.md",
-    "Education/Computer Science/Programming/JVM/Languages/Scala/Классы/Объект экстрактор.md",
-    "Education/Computer Science/Programming/JVM/Languages/Scala/Классы/Наследование case-классов.md",
-    "Education/Computer Science/Programming/JVM/Languages/Kotlin/Параметрический полиморфизм/Ключевое слово 'reified'.md",
-    "Education/Computer Science/Programming/JVM/Languages/Scala/Типы/Кортежи.md",
-    "Education/Computer Science/Programming/JVM/Languages/Scala/Классы/Case-классы.md",
+    "Daily/2024-07-28.md",
     "Education/Computer Science/Programming/JVM/Languages/Scala/Операторы/Pattern-matching.md",
-    "Education/Computer Science/Programming/JVM/Languages/Scala/Параметрический полиморфизм/Нижнее ограничение типа.md",
-    "Work/Solar/Компания/Проект/Матрица ответственностей.md",
-    "Templates/Month Planner Template.md",
-    "Work/Solar/Компания/Продукты/Solar Dozor.md",
-    "Education/Team Leading/Misc/RACI.md",
-    "Work/Solar/Компания/Общая информация.md",
-    "Work/Solar/Компания/Контакты.md",
-    "Education/Team Leading/Misc/Виды организаций.md",
-    "Education/Team Leading/Mind Map.md",
-    "Education/Computer Science/Programming/JVM/Languages/Scala/Классы/Внутренние классы.md",
+    "Education/Computer Science/Programming/JVM/Languages/Scala/Классы/Объекты-одиночки.md",
+    "Education/Computer Science/Programming/JVM/Languages/Scala/Классы/Неявные классы.md",
+    "Education/Computer Science/Programming/JVM/Languages/Scala/Параметрический полиморфизм/Контекстные (неявные) параметры.md",
+    "Education/Computer Science/Programming/Concepts/Principles/ACID.md",
+    "Education/Computer Science/Programming/JVM/Languages/Scala/Операторы/Пакеты и импорты.md",
+    "Education/Computer Science/Programming/JVM/Languages/Scala/Операторы/Функциональная обработка ошибок.md",
+    "Education/Computer Science/Programming/JVM/Languages/Scala/Типы/Непрозрачные типы.md",
+    "Education/Computer Science/Programming/JVM/Languages/Scala/Классы/Классы-значения.md",
+    "Education/Computer Science/Programming/JVM/Languages/Scala/Типы/Составные типы.md",
+    "Work/Инструменты/Оценка рисков.md",
+    "Education/Computer Science/Programming/JVM/Languages/Scala/Типы/Any.md",
+    "Education/Computer Science/Programming/JVM/Languages/Scala/Классы/Объект экстрактор.md",
+    "Education/Computer Science/Programming/JVM/Languages/Scala/Операторы/Регулярные выражения.md",
+    "Education/Computer Science/Programming/JVM/Languages/Scala/Операторы/Аннотации.md",
+    "Education/Computer Science/Programming/JVM/Languages/Kotlin/Параметрический полиморфизм/Ключевое слово 'reified'.md",
+    "Education/Computer Science/Programming/JVM/Languages/Scala/Коллекции/Множества.md",
+    "Education/Computer Science/Programming/JVM/Languages/Scala/Параметрический полиморфизм/Вариантность.md",
+    "Education/Computer Science/Programming/JVM/Languages/Scala/Функции/Множественные списки параметров (Каррирование).md",
+    "Cache/Cons.png",
+    "Cache/Pasted image 20240731025357.png",
+    "Untitled.canvas",
+    "Cache/Легенда графов коллекций Scala.png",
+    "Cache/Иерархия неизменяемых коллекций Scala.png",
+    "Cache/Иерархия изменяемых коллекций Scala.png",
+    "Cache/Иерархия базовых коллекций Scala.png",
+    "Cache/Приведение типов Scala.png",
+    "Education/Computer Science/Programming/JVM/Frameworks/Micronaut",
+    "Education/Computer Science/Programming/Concepts/Principles",
+    "Education/Computer Science/Programming/Concepts/Templates/FP",
+    "Education/Computer Science/Programming/Principles/Templates/OOP/Untitled",
+    "Education/Computer Science/Programming/Concepts/Templates/OOP",
+    "Education/Computer Science/Programming/Concepts/Templates",
+    "Education/Computer Science/Programming/Concepts",
     "Cache/Виды организаций 2.png",
     "Cache/DLP types of data.png",
-    "Cache/Приведение типов Scala.png",
     "Cache/Scala Types.png",
-    "Cache/S-Expressions.png",
-    "Cache/Виды организаций 1.png",
-    "Templates/Daily Template.md",
-    "Daily/2024-07-24.md",
-    "Templates/Year Planner Template.md",
-    "Templates/Q Planner Template.md",
-    "Templates/Default Template.md",
     "Education/Computer Science/Programming/JVM/Languages/Kotlin/Функции",
     "Education/Computer Science/Programming/JVM/Languages/Kotlin/Параметрический полиморфизм",
     "Education/Computer Science/Programming/JVM/Languages/Clojure",
-    "Education/Computer Science/Programming/JVM/Languages/Scala/Типы",
-    "Education/Computer Science/Programming/JVM/Languages/Scala/Параметрический полиморфизм",
-    "Education/Computer Science/Programming/JVM/Languages/Scala/Классы",
-    "Education/Computer Science/Programming/JVM/Languages/Scala/Коллекции",
-    "Education/Computer Science/Programming/JVM/Languages/Scala/Операторы",
-    "Education/Computer Science/Programming/JVM/Languages/Scala/Функции",
-    "Education/Computer Science/Programming/JVM/Languages/Scala/Типы",
-    "Cache/Pasted image 20240713011941.png",
     "Templates/Untitled.canvas"
   ]
 }

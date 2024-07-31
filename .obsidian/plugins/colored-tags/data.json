@@ -22,7 +22,11 @@
     "Planner": 10,
     "Clojure": 11,
     "Kotlin": 12,
-    "Java": 13
+    "Java": 13,
+    "FP": 14,
+    "Functional_Programming": 15,
+    "asklfj": 16,
+    "Transactions": 17
   },
   "_version": 3
 }

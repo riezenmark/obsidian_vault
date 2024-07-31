@@ -44,3 +44,8 @@ message5.recipient // claire@bourgogne.fr
 message5.body  // "Me zo o komz gant ma amezeg"
 ```
 Получатель `message4` использует в качестве отправителя `message5`, кроме параметра `body` который был скопирован из `message4`.
+### Product
+Case-классы расширяют [[Трейты|трейт]] `Product` и имеют его методы:
+- `productElement(n: Int): Any`, который возвращает `n`-ный параметр класса
+- `productArity: Int`, который возвращает количество параметров
+- `productIterator: Iterator[Any]`, который позволяет [[Итераторы|итерироваться]] по параметрам
