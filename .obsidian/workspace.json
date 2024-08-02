@@ -4,23 +4,64 @@
     "type": "split",
     "children": [
       {
-        "id": "86cedc6e0a78b848",
-        "type": "tabs",
+        "id": "39f37c562f75b1f4",
+        "type": "split",
         "children": [
           {
-            "id": "cc814f78c02835d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024-08-01.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+            "id": "86cedc6e0a78b848",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8902898e3f30924e",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "Getting Things Done.md",
+                    "kanbanViewState": {
+                      "kanban-plugin": "board",
+                      "list-collapse": [
+                        false,
+                        false,
+                        false,
+                        false,
+                        false,
+                        true,
+                        false
+                      ]
+                    }
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "06397695225ecfe9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1d60e14c8da55549",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "Work/Инструменты/Матрица Эйзенхауэра.md",
+                    "kanbanViewState": {
+                      "kanban-plugin": "board",
+                      "list-collapse": [
+                        false,
+                        false,
+                        false,
+                        false
+                      ]
+                    }
+                  }
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -62,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.51103591918945
+    "width": 386.51103591918945
   },
   "right": {
     "id": "187dce6debc09483",
@@ -97,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-08-01.md",
+                "file": "Getting Things Done.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-08-01.md",
+                "file": "Getting Things Done.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-08-01.md"
+                "file": "Getting Things Done.md"
               }
             }
           }
@@ -151,13 +192,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "cc814f78c02835d7",
+  "active": "45d675b4271ca19a",
   "lastOpenFiles": [
+    "Daily/2024-08-01.md",
     "Daily/2024-08-02.md",
     "Daily/2024-07-26.md",
     "Daily/2024-07-31.md",
     "Task charts.md",
-    "Daily/2024-08-01.md",
     "Getting Things Done.md",
     "Daily/2024-07-28.md",
     "Education/Computer Science/Programming/JVM/Languages/Scala/Операторы/Pattern-matching.md",
